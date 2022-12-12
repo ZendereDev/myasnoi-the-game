@@ -1,2 +1,2 @@
-# myasnoi-the-game
-Best horror game of 2022 (in development...)
+# myasnoi-the-game-unity
+ Best survival horror game 2022 about "Myasnoi" (in development)
